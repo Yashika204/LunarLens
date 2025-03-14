@@ -1,9 +1,9 @@
-🌌 LunarLens: Mapping the Moon, One Crater at a Time! 🌕
+**🌌 LunarLens: Mapping the Moon, One Crater at a Time! 🌕**
 
 LunarLens is a cutting-edge system for detecting and mapping lunar craters, merging the power of computer vision, GIS tools, and modern database management to deliver precise and interactive analysis of the Moon's surface. 🚀
 
 
-🌟 What is LunarLens?
+**🌟 What is LunarLens?**
 
 LunarLens is an innovative crater detection tool that:
 
@@ -14,22 +14,22 @@ LunarLens is an innovative crater detection tool that:
 
 This project is designed for researchers, astronomers, and space enthusiasts looking to explore and analyze the Moon’s surface features with high accuracy.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
-Computer Vision: Python 3.10 + OpenCV 4.5 for image processing and template matching.
+1. Computer Vision: Python 3.10 + OpenCV 4.5 for image processing and template matching.
 
-GIS Tools: QGIS 3.28 for geospatial data extraction and visualization.
+2. GIS Tools: QGIS 3.28 for geospatial data extraction and visualization.
 
-MS Excel (CSV File) 
+3. MS Excel (CSV File) 
 
-🗂️ Dataset
+**🗂️ Dataset**
 
 TMC Images: High-resolution Terrain Mapping Camera (TMC) lunar images from ISRO.
 
 Validation Dataset: Crater datasets from the Lunar and Planetary Institute (LPI) repository, ensuring accurate validation and comparison of detected craters. 
 
 
-🚀 Key Features
+**🚀 Key Features**
 
 🌌 Accurate Detection: Combines Template Matching, Hough Circle Transform, and Isomorphic approaches to boost detection precision.
 
